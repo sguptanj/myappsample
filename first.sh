@@ -1,6 +1,7 @@
 #!/bin/bash
 #My first script (for comments)
-
+#@Author: Siddharth Gupta
+#@Code: Version 1.1
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 BLBG='\e[44m' #Blue Background
