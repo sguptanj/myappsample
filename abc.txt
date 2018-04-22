@@ -1,0 +1,10 @@
+total 0
+ 1 SidGupa 197611 0 Dec 16 07:53 $RECYCLE.BIN/
+ 1 SidGupa 197611 0 Jan 16 13:46 Software Directory/
+ 1 SidGupa 197611 0 Jan 16 13:50 Java Codes/
+ 1 SidGupa 197611 0 Feb 11 19:54 SQL_Queries/
+ 1 SidGupa 197611 0 Apr  9 16:21 1004428/
+ 1 SidGupa 197611 0 Apr  9 18:40 System Volume Information/
+ 1 SidGupa 197611 0 Apr  9 23:13 SandBlastBackup/
+ 1 SidGupa 197611 0 Apr 12 23:35 Linux Practice Drive/
+ 1 SidGupa 197611 0 Apr 14 07:35 abc.txt
